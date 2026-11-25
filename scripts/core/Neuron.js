@@ -226,9 +226,9 @@ function Neuron(scene){
 	self.body_image = images.neuron_body;
 
 	// Highlight
-	self.highlightRadius = 25;
-	self.highlightFill = "#fff";
-	self.highlightBaseAlpha = 0.5;
+	self.highlightRadius = 60;
+	self.highlightFill = "#00E5FF";
+	self.highlightBaseAlpha = 0.8;
 
 	self.draw = function(ctx){
 
