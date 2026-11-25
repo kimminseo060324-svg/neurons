@@ -141,7 +141,7 @@ function Neuron(scene){
 	self.hebbSignalDuration = 2; // 2 seconds, sorta
 
 	// Highlight
-	self.highlightFade = 0.8;
+	self.highlightFade = 0.95;
 
 	self.update = function(){
 
